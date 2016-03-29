@@ -1,4 +1,4 @@
-# Introduction to Binary Exploitation, Spring 2016
+# Intro to Binary Exploitation
 
 Mark Mossberg
 NU Hacks

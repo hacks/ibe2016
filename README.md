@@ -4,7 +4,7 @@ Mark Mossberg
 NU Hacks  
 3/31/2016
 
-Workshop Server: http://104.131.171.115. Check the services.txt file for what
+Workshop Server: http://104.131.171.115:1337. Check the services.txt file for what
 ports the services are running on.
 
 ## Setup

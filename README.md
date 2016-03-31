@@ -36,6 +36,12 @@ need to modify your exploit to read the address of the buffer (which it
 prints) and dynamically construct your exploit based on it before you send
 it.
 
+To test connection to these services you can run
+
+```
+$ netcat 104.131.171.115 1338
+```
+
 ## Exploit Scripts
 
 This repo includes some template exploit scripts for you to get started.

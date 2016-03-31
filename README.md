@@ -42,6 +42,13 @@ To test connection to these services you can run
 $ netcat 104.131.171.115 1338
 ```
 
+## Guestbooks
+
+On the server are two guestbook.txt files, one for the vuln and vuln2 service.
+Once you exploit each service, you will be able to sign (write to) the
+corresponding guestbook to show everyone how leet you are! Note that you
+will have total write access, so pls be cool about it.
+
 ## Exploit Scripts
 
 This repo includes some template exploit scripts for you to get started.

@@ -30,7 +30,7 @@ def pack(addr):
 bufsize =
 
 # What is the address of our shellcode in memory that we want to direct
-# executin to?
+# execution to?
 shellcode_addr =
 
 # Step 1: Create a string variable containing shellcode

@@ -8,10 +8,10 @@ void vuln(void)
     printf("What's your name?: \n");
     fgets(name, 82, stdin);
     if (flag == 0) {
-        printf("No overflow!\n");
+        printf("Flag is: 0x%08x. No overflow!\n", flag);
         exit(0);
     } else {
-        printf("Whoa, there was an overflow!\n");
+        printf("Flag is: 0x%08x. Whoa, there was an overflow!\n", flag);
         exit(1);
     }
 }

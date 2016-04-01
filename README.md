@@ -55,6 +55,13 @@ will have total write access, so pls be cool about it.
 
 This repo includes some template exploit scripts for you to get started.
 
+First run `no_aslr.sh`. Then complete the `vuln_x_local.py` exploit. To
+find the shellcode address, just run the program a few times and see the
+address printed. Then
+you can run this exploit with `./vuln_x_local.py | ./vuln`.
+Then you can easily fill out the remote exploit and try running it. You just
+need to point it at a server hosting the vuln service.
+
 ## Troubleshooting
 
 If bash says it can't find the file when you try to execute them, it's

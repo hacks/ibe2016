@@ -7,6 +7,8 @@ NU Hacks
 Workshop Server: http://104.131.171.115:1337. Check the services.txt file for what
 ports the services are running on.
 
+Presentation slides: https://slides.com/mossberg/ibe
+
 ## Setup
 
 - gdbinit: Run `cat gdbinit >> ~/.gdbinit` to get gdb set up
